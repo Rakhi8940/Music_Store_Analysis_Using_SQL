@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/689c0852-ca27-4ee9-a845-5a4020b87c57" />
-" width="900" alt="Music Store Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/689c0852-ca27-4ee9-a845-5a4020b87c57" width="900" alt="Music Store Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
 
 # 🎵 Music Store Analysis
 
